@@ -2,7 +2,7 @@
 METADATA:
   Model Compatibility: GPT-4o, Claude 3.5 Sonnet, GPT-4o-mini
   Temperature: 0.0 (Deterministic)
-  Max Tokens: 500
+  Max Tokens: 300
 ---
 
 ROLE:
