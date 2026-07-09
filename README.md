@@ -25,9 +25,9 @@ My primary focus is on maximizing model reliability and safety through advanced 
 
 Below are three production-ready AI workflows demonstrating my ability to solve real-world business problems using advanced prompt engineering.
 
-### 1. [The Autonomous Enterprise Agent](./tree/main/Enterprise%20Agent)
+### 1. [The Autonomous Enterprise Agent](./Enterprise%20Agent)
 
-### 2. [The Dynamic Data-Extraction Pipeline](./tree/main/Data%20Pipeline)
+### 2. [The Dynamic Data-Extraction Pipeline](./Data%20Pipeline)
 **The Problem:** Unstructured legacy data (like raw customer emails or medical notes) is difficult to parse into traditional databases.
 **The Solution:** Designed a Few-Shot processing pipeline that ingests chaotic text and flawlessly outputs clean, predictable JSON objects.
 **Techniques Used:** 
@@ -35,7 +35,7 @@ Below are three production-ready AI workflows demonstrating my ability to solve 
 * Strict Output Formatting
 * Syntax Standardization
 
-### 3. [The Logistics & Logic Engine](./tree/main/Logic%20Engine)
+### 3. [The Logistics & Logic Engine](./Logic%20Engine)
 **The Problem:** LLMs inherently struggle with calendar math and sequential logistics, leading to highly inaccurate delivery date predictions.
 **The Solution:** Built a logic engine that forces the model to map out timelines day-by-day, successfully accounting for non-business days and dynamic delays.
 **Techniques Used:** 
