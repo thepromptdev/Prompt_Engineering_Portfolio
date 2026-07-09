@@ -26,12 +26,6 @@ My primary focus is on maximizing model reliability and safety through advanced 
 Below are three production-ready AI workflows demonstrating my ability to solve real-world business problems using advanced prompt engineering.
 
 ### 1. [The Autonomous Enterprise Agent](./01-Enterprise-Agent/)
-**The Problem:** Customer support bots often hallucinate policies or authorize refunds outside of company guidelines.
-**The Solution:** Engineered a master System Prompt for an e-commerce bot that strictly enforces a 30-day refund boundary. 
-**Techniques Used:** 
-* System Guardrails
-* Invisible Chain-of-Thought (using `<scratchpad>` tags)
-* Tone & Persona Constraints
 
 ### 2. [The Dynamic Data-Extraction Pipeline](./02-Data-Pipeline/)
 **The Problem:** Unstructured legacy data (like raw customer emails or medical notes) is difficult to parse into traditional databases.
