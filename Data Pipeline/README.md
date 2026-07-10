@@ -30,5 +30,5 @@
 }"
 
 
-##Observations:
+## Observations:
 Patient age was added on purpose to check if GenAIs would move towards their helping bias and calculate the age on their own. Most AIs left it null when they ran on higher parameters but some AIs like the copilot on Edge web browser immediately leaned on their helping bias and filled in the age. I observed this on other smaller GenAIs as well and realised that they have a certain memory limitations.
