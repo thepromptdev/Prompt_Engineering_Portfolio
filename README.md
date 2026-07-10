@@ -28,12 +28,6 @@ Below are three production-ready AI workflows demonstrating my ability to solve 
 ### 1. [The Autonomous Enterprise Agent](./Enterprise%20Agent)
 
 ### 2. [The Dynamic Data-Extraction Pipeline](./Data%20Pipeline)
-**The Problem:** Unstructured legacy data (like raw customer emails or medical notes) is difficult to parse into traditional databases.
-**The Solution:** Designed a Few-Shot processing pipeline that ingests chaotic text and flawlessly outputs clean, predictable JSON objects.
-**Techniques Used:** 
-* Few-Shot Learning
-* Strict Output Formatting
-* Syntax Standardization
 
 ### 3. [The Logistics & Logic Engine](./Logic%20Engine)
 **The Problem:** LLMs inherently struggle with calendar math and sequential logistics, leading to highly inaccurate delivery date predictions.
